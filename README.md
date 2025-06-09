@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vold2emort" alt="vold2emort" /></a> </p>
 
-- 🌱 I’m currently learning **python, machine learning**
+- 🌱 I’m currently learning **python, DJANGO, BACKEND DEVELOPMENT**
 
 - 💬 Ask me about **python, c, c++**
 
