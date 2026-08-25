@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **pramishkc066@gmail.com**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vold2emort's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 
 [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9a7b741-b2d2-4753-a1e9-5f0f5508f57b.jpeg?v=1786534066)](https://www.boot.dev/certificates/c9a7b741-b2d2-4753-a1e9-5f0f5508f57b)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2cd4d13e-ea47-4833-a51d-cbca20435408.jpeg?v=1785162873)](https://www.boot.dev/certificates/2cd4d13e-ea47-4833-a51d-cbca20435408)
