@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pramish K.C</h1>
 <h3 align="center">A passionate developer form Nepal.</h3>
 
-- 🌱 I’m currently learning **python, DJANGO, BACKEND DEVELOPMENT**
+- 🌱 I’m currently learning **python, Go, DJANGO, Backend Development, Full Stack Development**
 
 - 💬 Ask me about **python, C, JavaScript, Django, React.js, Next.js, Docker**
 
