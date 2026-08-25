@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently learning **python, DJANGO, BACKEND DEVELOPMENT**
 
-- 💬 Ask me about **python, c, c++**
+- 💬 Ask me about **python, C, JavaScript, Django, React.js, Next.js, Docker**
 
 - 📫 How to reach me **pramishkc066@gmail.com**
 
-it-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9a7b741-b2d2-4753-a1e9-5f0f5508f57b.jpeg?v=1786534066)](https://www.boot.dev/certificates/c9a7b741-b2d2-4753-a1e9-5f0f5508f57b)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2cd4d13e-ea47-4833-a51d-cbca20435408.jpeg?v=1785162873)](https://www.boot.dev/certificates/2cd4d13e-ea47-4833-a51d-cbca20435408)
